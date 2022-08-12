@@ -1,3 +1,3 @@
 # java-visual-programming
 
-Java ile Görsel Prog. dersinde yapmış olduğum JFrame deneme projelerim.
+JFrame ile Görsel Prog. dersinde geliştirmiş olduğum deneme projelerim.
